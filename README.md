@@ -16,6 +16,5 @@ prodi: Teknik Infomatika
  # Membuat CSS Eksternal
  ![Gambar4](Screenshot/Membuat_eksternal_CSS.png)
 
-
  # Menambahkan CSS Selector
  ![Gambar5](Screenshot/Menambhahkan_CSS_selector.png")
